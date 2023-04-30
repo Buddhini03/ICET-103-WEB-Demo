@@ -1,0 +1,14 @@
+               .input { 
+                 padding-right: 5px;
+                 padding-left: 5px;
+                 background-color: rgb(201, 231, 238);
+                 color: rgb(33, 15, 15);
+                } 
+        
+                #btn{
+                    padding: 10px; 
+                    border-radius :100px; 
+                    background-color :rgb(40, 228, 40);
+                    border-color: beige;
+                    border-width: 5px;color: rgb(1, 1, 14);
+                } 
